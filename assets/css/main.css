@@ -173,7 +173,7 @@ body.loaded .blog-desc {
 	border-left: none;
 	border-right: none;
 	display: inline-block;
-	font-family: Arial, serif;
+	font-family: Cookie, serif;
 	font-size: 72px;
 	font-weight: normal;
 	line-height: 108px;
@@ -210,7 +210,7 @@ body.loaded .blog-desc {
 	z-index: 1;
 }
 .blog-desc {
-	font-size: 18px;
+	font-size: 12px;
 	font-family: Arial, sans-serif;
 	font-weight: 700;
 	margin: -32px 0 0 0;
